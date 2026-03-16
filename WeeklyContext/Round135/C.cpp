@@ -13,7 +13,7 @@ void solve(){
     for (int i = 1; i <= n; i++) {
         cin >> a[i];
     }
-    if (n > 3 || n == 1) {//注意负数，负数整除会自动+1
+    if (n > 3 || n == 1) {
         cout << "YES\n";
     } else {
         if (is_sorted(a + 1, a + 1 +n)) {
