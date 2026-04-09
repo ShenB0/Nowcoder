@@ -1,3 +1,4 @@
+//或者期望DP+拓扑可以做到O(n+m)，以及全概率公式
 #include<bits/stdc++.h>
 using namespace std;
 using ll = long long;
