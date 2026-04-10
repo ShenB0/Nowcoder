@@ -1,3 +1,4 @@
+//也可以反向思考，做树形DP
 #include<bits/stdc++.h>
 using namespace std;
 using ll = long long;
